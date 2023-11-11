@@ -12,6 +12,6 @@
 
 ## Integrantes
 
-*   Joel Cabrala | f.cabral@itecriocuarto.org.ar
+*   Joel Cabral | f.cabral@itecriocuarto.org.ar
 *   Ema Diaz | e.diaz@itecriocuarto.org.ar
 *   Zacarias Flores | j.flores@itecriocuarto.org.ar
